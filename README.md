@@ -5,4 +5,4 @@
 py -m pip install jupyterlab numpy pandas mayplotlib seaborn scipy
 ```
 
-[[[markdown]]](((https://github.com/Bshell13/datafun-04-jupyter)))
+[markdown](https://github.com/Bshell13/datafun-04-jupyter)
