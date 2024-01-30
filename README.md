@@ -9,9 +9,16 @@ py -m pip freeze > requirements.txt
 ```
 
 ## About the Project
-In this project, I will demonstrate the use of jupyter notebooks while eploring a common dataset, iris.csv.
+In this project, I will demonstrate the use of jupyter notebooks while exploring a common dataset, iris.csv.
 The 'iris.csv' dataset is stored in the Seaborn library.
 <div class="plt.show() not working">
 <b>Tip:</b> If plt.show() is not working, import the following from matplotlib.
 `import matplotlib.pyplot as plt`
 </div>
+
+## Updating GitHub repository
+```shell
+git add .
+git commit -m "updated message"
+git push origin main
+```
